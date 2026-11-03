@@ -1,6 +1,6 @@
 {
   "hardware_model": "Waveshare ESP32-S3-ePaper-1.54G V2",
   "platform": "esp32-s3",
-  "version": "0.10",
-  "ota_url": "https://github.com/CrazyLegsMalone/lesion_os_updates/releases/download/waveshare-esp32-s3-epaper-1.54g-v2-v0.10/LesionOS_Waveshare_ESP32-S3-ePaper-1.54G-V2_v0.10_OTA.bin"
+  "version": "0.11",
+  "ota_url": "https://github.com/CrazyLegsMalone/lesion_os_updates/releases/download/waveshare-esp32-s3-epaper-1.54g-v2-v0.11/LesionOS_Waveshare_ESP32-S3-ePaper-1.54G-V2_v0.11_OTA.bin"
 }
