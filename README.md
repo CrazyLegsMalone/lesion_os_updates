@@ -1,6 +1,8 @@
 # Lesion OS — Device Updates
 
-Official public firmware download directory for **Lesion OS**.
+Official public firmware download directory for existing **Lesion OS** installations.
+
+Husk OS is the name of Kettle Forge Studios’ firmware development project. This repository continues to serve the legacy Lesion OS update channel for installed devices.
 
 **Source code repositories are separate and may remain private.** This repository hosts only published firmware packages, update manifests, and device-specific installation instructions.
 
